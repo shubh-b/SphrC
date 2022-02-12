@@ -1,0 +1,103 @@
+Arrangements to check:
+423KKKL72KK
+==@=@JYH###OP78
+
+
+Some books to read:
+Harry Potter and the Philosopher's Stone
+	$11.3
+	26-June-1997
+
+Harry Potter and the Chamber of Secrets
+	$6.98
+	2-July-1998
+
+Harry Potter and the Goblet of Fire
+	$6.92
+	8-July-2000
+
+Harry Potter and the Half Blood Prince
+	$11
+	16-July-2005
+
+The Adventures of Sherlock Holmes
+	$7.41
+	14 Oct 1892
+
+The Memoirs of Sherlock Holmes
+	$9.99
+	Dec 1892
+
+The Return of Sherlock Holmes
+	$10.95
+	Feb 1905
+
+The Sherlock Holmes Collection
+	$9.97
+	18-Dec-2021
+
+
+These are few movie lengths:
+titans		1:53:26
+titanic		03:14:46
+Titanica	1:35:15
+Inception	2:28:17
+Gravity		1:31:09
+
+and identify valid time lengths:
+121:56:34
+4:78:52
+01:33:67
+22:98:73
+00:47:54
+21:213:30
+32:00:12
+2:05:20
+
+
+Some names and contacts:
+Mr. Pat Raymonds
+	pat.raymonds@emaildomain.com
+	2258 569 254
+
+Ms Jenny Tarandal
+	jenny_taran@domain.com
+	5566 111 777
+
+Dr. Lui Shearcal
+	lui@emailcentre.org
+	6262 445 669
+
+Prof. Setty Natcam
+	setnat@domainemail.co.in
+	1214 232 569
+
+Prof (Dr.) Hacher Elentra
+	HachElen@allemails.com
+	1234 565 898
+
+Mrs. Siely Masser
+	siel-masser56@justdomain.edu
+	8888 654 321
+
+Not an email id: c\nv@d@23_fg.net_au
+
+
+Identify the Internet Protocol addresses:
+135.89.256.182,		192.0.24.1,
+124.40.223.226,		56.90.211.30,
+172.16.254.01,		134.116.056.251,
+324.213.78.121,		212.2134.124.213
+
+
+Few web addresses:
+https://www.google.com
+https://www.wikipedia.org
+https://en.wikipedia.org/wiki/URL
+http://info.cern.ch
+https://www.amazon.in
+https://www.ox.ac.uk
+https://cloud9.gg
+http://mysite.com/%E5%BC%95%89%B2%E3%82%8A.html
+http://your_site.com/questions/4856#my-document.html
+https://oursite.com/questions/my_document.html

@@ -1,0 +1,52 @@
+CHARACTER CLASSES and CAPTURING
+[...]           :positive character class
+[^...]          :negative character class
+[0-9]           :digit in the range 0 through 9
+[a-z]           :letter in a through z
+[A-Z]           :capital letter in A through Z
+|               :alternation (either or)
+(...)           :capture group
+(?<name>...)    :named capture group
+
+CHARACTER TYPES
+.               :any character except newline
+\d              :digit in the range 0 through 9
+\D              :NOT a digit
+\w              :word character (a-z, A-Z, 0-9, _)
+\W              :NOT a word character
+\s              :whitespace (space, tab, newline, carriage return)
+\S              :NOT a whitespace
+
+ANCHORS
+\b              :word boundary
+\B              :NOT a word boundary
+^               :beginning of a String
+$               :end of a String
+
+QUANTIFIERS
++               :1 or more (greedy)
++?              :1 or more (lazy)
+++              :1 or more (possessive)
+
+*               :0 or more (greedy)
+*?              :0 or more (lazy)
+*+              :0 or more (possessive)
+
+?               :0 or once (greedy)
+??              :0 or once (lazy)
+?+              :0 or once (possessive)
+
+{n}             :exactly n
+{n,}            :n or more (greedy)
+{n,}?           :n or more (lazy)
+{n,}+           :n or more (possessive)
+
+{n,m}           :at least n, no more than m (greedy)
+{n,m}?          :at least n, no more than m (lazy)
+{n,m}+          :at least n, no more than m (possessive)
+
+LOOKAHEAD and LOOKBEHIND
+(?=...)         :positive lookahead
+(?!...)         :negative lookahead
+(?<=...)        :positive lookbehind
+(?<!...)        :negative lookbehind
